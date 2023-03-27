@@ -1,5 +1,8 @@
 # fusionride
-FRZX员工repo
 
 摘抄自官网：https://www.fusionride.com/
 ![from fusionride.com website](fusinride_web1.png)
+
+
+复睿智行网联（上海）科技有限公司成立于2023-02-27
+摘抄自：[https://www.tianyancha.com/company/5933849134#!](https://www.tianyancha.com/company/5933849134#!)
